@@ -277,7 +277,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59f909927a5020e45a6541fab0e8c906, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
+  moveSpeed: 10
   rb: {fileID: 1367740969}
   weapon: {fileID: 1566131758}
 --- !u!58 &1367740968
